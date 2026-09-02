@@ -3,6 +3,5 @@ __pycache__/
 *.pyc
 .env
 qdrant_data/
-data/
 .DS_Store
 eval_results.json
